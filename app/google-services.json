@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693788283823",
+    "project_id": "docterappointmentss",
+    "storage_bucket": "docterappointmentss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693788283823:android:acbf68f874ab068a7b955a",
+        "android_client_info": {
+          "package_name": "com.example.docter_appointments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693788283823-mvqok44pr5qi26u33nrf00k1ppvft7s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA87_NjaCaYHZKNHehl3v9ZADldNhp8Y-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693788283823-mvqok44pr5qi26u33nrf00k1ppvft7s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
